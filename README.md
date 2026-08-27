@@ -1,3 +1,3 @@
-# ichiyasaGitSample
-『いちばんやさしいGit&GitHubの教本』のサンプルプロジェクト
+# MiyazakiMultiGitSample
+授業用のHTMLサンプルです。
 
